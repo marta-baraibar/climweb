@@ -11,61 +11,6 @@ ensure that NMHSs have a modern, responsive, and user-friendly website.
 
 ClimWeb is open-source software, recognised as a Digital Public Good by the Digital Public Goods Alliance. It strengthens the delivery of climate services, contributing to the Sustainable Development Goals, including SDG 13 (Climate Action). 
 
-## Live Instances
-
-NMHSs that have adopted ClimWeb across Africa:
-
-1. 🇧🇯 [Benin](https://www.meteobenin.bj/)
-2. 🇧🇫 [Burkina Faso](https://www.meteoburkina.bf/)
-3. 🇧🇮 [Burundi](https://www.igebu.bi/)
-4. 🇹🇩 [Chad](https://www.meteotchad.org/)
-5. 🇪🇹 [Ethiopia](https://www.ethiomet.gov.et/)
-6. 🇬🇭 [Ghana](https://www.meteo.gov.gh/)
-7. 🇲🇼 [Malawi](https://www.metmalawi.gov.mw/)
-8. 🇲🇱 [Mali](https://www.malimeteo.ml/)
-9. 🇳🇪 [Niger](https://www.niger-meteo.ne/)
-10. 🇸🇨 [Seychelles](https://www.meteo.sc/)
-11. 🇸🇸 [South Sudan](https://meteosouthsudan.com.ss/)
-12. 🇸🇩 [Sudan](https://meteosudan.sd/)
-13. 🇹🇬 [Togo](https://meteotogo.tg/)
-14. 🇿🇼 [Zimbabwe](https://www.weatherzw.org.zw/)
-15. 🇬🇲 [The Gambia](https://meteogambia.gm/)
-16. 🇬🇼 [Guinea Bissau](https://meteoguinebissau.gw/)
-17. 🇨🇩 [Democratic Republic of Congo](https://www.meteordcongo.cd/)
-18. 🇨🇬 [Republic of Congo](http://dirmet.cg/)
-19. 🇧🇫 [Hydrology Department of Burkina Faso](https://dgre.gov.bf/)
-20. 🇬🇳 [Guinea](https://anmeteo.gov.gn/)
-21. 🇰🇲 [Comoros](https://meteocomores.km/)
-22. 🇰🇪 [Kenya](https://meteo.go.ke)
-23. 🇱🇷 [Liberia](https://meteoliberia.com/)
-24. 🇿🇲 [Zambia](http://zmd.gov.zm/)
-25. 🇩🇯 [Djibouti](https://meteodjibouti.dj/)
-26. 🇸🇱 [Sierra Leone](https://slmet.gov.sl/)
-27. 🇸🇴 [Somalia](https://meteosomalia.so/)
-28. 🇲🇿 [Mozambique](https://inam.gov.mz/)
-29. 🇿🇲 [Mauritania](https://meteomauritanie.mr/)
-30. 🇨🇫 [Central African Republic](https://meteocentrafrique.com/)
-31. 🇱🇸 [Lesotho](https://lesmet.gov.ls)
-32. 🇸🇩 [General Administration for Nile Waters Affairs](https://wre.gov.sd/)
-33. 🇲🇿 Mozambique Hydrology Department
-34. 🇳🇪 RCC ACMAD
-
-#### In progress
-
-35. 🇺🇬 Uganda 
-36. 🇳🇦 Namibia 
-37. 🇲🇬 Madagascar 
-38. 🇸🇿 Eswatini 
-39. 🇨🇲 Cameroon 
-40. 🇨🇲 RCC Douala 
-41. 🇨🇲 RSMC Yaounde 
-42. 🇸🇹 São Tomé and Príncipe 
-43. 🇨🇻 Cabo Verde
-44. 🇪🇬 Egypt
-
-## 🌍 Other regions
-47. 🇸🇾 [Syria](https://climweb.med.gov.sy)
-
 ## 🌟 Core Features
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e182517d-277d-44e7-8800-e02761940375" />
 
